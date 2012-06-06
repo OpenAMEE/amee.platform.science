@@ -11,7 +11,7 @@
         <relativePath>../amee.parent</relativePath>
     </parent>
 
-    <name>amee-platform-science</name>
+    <name>AMEE Platform Science</name>
     <groupId>com.amee.platform</groupId>
     <artifactId>amee-platform-science</artifactId>
     <version>1.5.1-SNAPSHOT</version>
