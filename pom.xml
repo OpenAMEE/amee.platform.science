@@ -81,6 +81,13 @@
             <groupId>commons-logging</groupId>
             <artifactId>commons-logging</artifactId>
         </dependency>
+        <dependency>
+            <groupId>sun.org.mozilla.javascript.internal</groupId>
+            <artifactId>.</artifactId>
+            <version>1.5</version>
+            <scope>system</scope>
+            <systemPath>${java.home}/lib/rt.jar</systemPath>
+        </dependency>
 
         <!-- Test Dependencies. -->
         <dependency>
